@@ -62,9 +62,9 @@ Automated reminders, task schedulers, and notifications
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=muzammiltokhir&show_icons=true&theme=default" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzammiltokhir&layout=compact&theme=default" />
 </p>
 
 ---
