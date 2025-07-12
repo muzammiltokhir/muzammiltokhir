@@ -1,53 +1,81 @@
-<h1 align="center">Hi there, I'm Tohir 👋</h1>
-
+<h1 align="center">Hi, I'm Tohir 👋</h1>
 <p align="center">
-  A passionate <strong>.NET Backend Developer</strong> with 3+ years of experience building scalable backend systems using <strong>C#</strong>, <strong>ASP.NET Core</strong>, and <strong>PostgreSQL</strong>.
+  <strong>.NET Backend Developer | C# | ASP.NET Core | PostgreSQL | MongoDB</strong><br/>
+  Building scalable, maintainable systems with clean architecture and modern tools.
 </p>
 
 ---
 
-### 🔧 Tech Stack
+## 🧑‍💻 About Me
 
-- 🖥️ Languages: `C#`, `TypeScript`, `SQL`
-- 🚀 Frameworks: `ASP.NET Core`, `Entity Framework`, `Dapper`, `Firebase Functions`
-- 🗄️ Databases: `PostgreSQL`, `MongoDB`
-- ☁️ Cloud: `Azure`, `Firebase`
-- 🛠️ Tools: `Git`, `Docker`, `MS Graph API`, `Gmail API`
-
----
-
-### 💼 What I’m Working On
-
-- 🔁 Multi-tenant Outlook & Gmail email integration using OAuth2 and Microsoft Graph API
-- 📊 Real-time and scheduled reporting systems for warehouse logistics
-- 🔔 Firebase-based task and notification automation
+- 🧠 Backend-focused Software Engineer with **3+ years** of experience
+- ⚙️ I specialize in **.NET**, **C#**, **PostgreSQL**, **MongoDB**, and **Firebase**
+- 🏗️ I build **RESTful APIs**, **microservices**, and **reporting systems** for high-load applications
+- 🧪 I follow best practices like **DDD**, **TDD**, and **SOLID principles**
+- ☁️ I work with cloud tools like **Azure**, **Firebase**, and **Microsoft Graph API**
+- 🌱 Currently learning **Azure architecture** and **SRE (Site Reliability Engineering)**
 
 ---
 
-### 🌱 Currently Learning
+## 🔧 Tech Stack
 
-- Azure Cloud Services and Site Reliability Engineering (SRE)
-- Benchmarking and performance profiling with dotTrace and BenchmarkDotNet
+**Languages**  
+`C#` `TypeScript` `SQL`
+
+**Frameworks & Libraries**  
+`ASP.NET Core` `Entity Framework Core` `Dapper` `Firebase Functions` `MSAL` `Mongoose`
+
+**Databases**  
+`PostgreSQL` `MongoDB` `SQLite`
+
+**Dev Tools & Cloud**  
+`Git` `Docker` `Firebase` `Azure` `Microsoft Graph API`
+
+---
+
+## 🚀 Projects & Contributions
+
+### 📬 Outlook & Gmail Integration  
+Multi-tenant OAuth2 integration for Microsoft & Google email APIs  
+- Microsoft Graph API + Gmail API  
+- Token storage in MongoDB  
+- Firebase Cloud Functions as backend  
 
 ---
 
-### 📌 Featured Projects
-
-- 📬 [Email Integration Platform](https://github.com/your-username/email-integration)  
-  *Full Outlook & Gmail OAuth2 integration with access token storage in MongoDB*
-
-- 📦 [Cargo Reporting System](https://github.com/your-username/cargo-reporting)  
-  *Warehouse dashboard & file reports using Firebase Cloud Functions & MongoDB*
+### 📊 Warehouse Reporting System  
+Real-time and scheduled reports for warehouse operations  
+- Built with TypeScript, Firebase Functions  
+- Dynamic filtering and export options  
+🔗 [View Project](https://cargoconnect.io/)
 
 ---
 
-### 📫 Contact
-
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/tokhirkhuja-anvarkhujaev-91131a1a8/))
-- 📧 thebesttohir@gmail.com
+### 🔔 Task Automation & Notifications  
+Automated reminders, task schedulers, and notifications  
+- Firebase Triggered Functions  
+- Role-based access with Firestore  
+🔗 [View Project](https://cargoconnect.io/)
 
 ---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=default" />
 </p>
+
+---
+
+## 📫 Contact Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/tokhirkhuja-anvarkhujaev-91131a1a8/)
+- 📧 Email: thebesttohir@gmail.com
+
+---
+
+### ☕ Fun Fact
+When I’m not coding, I’m likely reading about clean architecture, football tactics, or exploring productivity tools!
+
